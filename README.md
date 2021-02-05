@@ -29,7 +29,7 @@ Have a look at the official [Sulu website](https://sulu.io/) for a comprehensive
 </p>
 <br/>
 
-This repository provides the recommended **project template for starting your new project based on the Sulu content management system**.
+Thisss repository provides the recommended **project template for starting your new project based on the Sulu content management system**.
 The project template follows the best-practices of the [Symfony](https://symfony.com/) framework and builds upon tho official [symfony/skeleton](https://github.com/symfony/skeleton) template. In addition, it requires and configures the Sulu content management system core framework [sulu/sulu](https://github.com/sulu/sulu).
 
 If you want to **extend your already set up Sulu project**, visit the [Sulu organization](https://github.com/sulu) on GitHub for a complete list of official Sulu bundles.
